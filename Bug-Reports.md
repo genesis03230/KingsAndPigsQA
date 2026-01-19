@@ -39,5 +39,7 @@ This behavior breaks the intended progression rules and reduces the challenge an
 - Allows unintended level completion
 
 ### Evidence
-- Video and visual evidence available in the `Evidence` folder
+- 🎥 Video (Full reproduction): [
+KingsAndPigs-BUG-01-PartialItemCollectionAllowsCompletion](https://www.youtube.com/watch?v=jjT-xe8j3bc)
+- 🖼️ Visual preview (GIF): available in the `Evidence` folder
 
