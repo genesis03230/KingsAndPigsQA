@@ -32,7 +32,7 @@ The QA activities for this project focus on:
 The following preview demonstrates a progression issue identified during manual testing.  
 In this scenario, the player is able to complete the level and transition to the next scene despite collecting only part of the required items.
 
-![Level can be completed with partial item collection](Evidence/bug_partial_collection_allows_completion.gif)
+![KingsAndPigs-BUG-01-PartialItemCollectionAllowsCompletion](https://github.com/user-attachments/assets/c4e0ebff-fc95-44e4-a4f1-536e3dcacc5c)
 
 > Full reproduction steps, severity, and complete video evidence are documented in `Bug-Reports.md`.
 
